@@ -1,0 +1,81 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Flex:opsz,wght@8..144,300&display=swap');
+
+
+body {
+    font-family: 'Roboto Flex', sans-serif;
+
+}
+
+.register_small {
+    background-color: rgb(72, 140, 204);
+    color: white;
+    border-radius: 3px;
+    border: none;
+    font-size: 9px;
+
+}
+
+.register_big {
+    background-color: rgb(72, 140, 204);
+    color: white;
+    border-radius: 3px;
+    border: none;
+    font-size: 13px;
+    height: 32px;
+    width: 170px;
+    cursor: pointer;
+
+}
+
+.signin_big {
+    background-color: rgb(96, 188, 92);
+    color: white;
+    border-radius: 3px;
+    border: none;
+    font-size: 13px;
+    height: 32px;
+    width: 170px;
+    cursor: pointer;
+
+}
+
+.agree {
+    font-weight: bold;
+}
+
+.title {
+    text-align: center;
+}
+
+.sign_form {
+    width: 450px
+}
+
+.content {
+    width: 400px;
+     display: inline;
+}
+
+.input1 {
+    width: 200px;
+    height: 30px;
+}
+.input2 {
+    width: 412px;
+    height: 30px;
+}
+
+.buttons {
+    text-align: center;
+     
+}
+
+a {
+    text-decoration: none;
+}
+
+.check_agree {
+    display: inline;
+}
+
+
