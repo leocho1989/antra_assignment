@@ -151,3 +151,11 @@ img {
         font-family: "Helvetica Neue",Helvetica,Arial;
 
 }
+
+.content_1:hover {
+    border: 4px solid #ccc;
+}
+
+.content_2:hover {
+    border: 4px solid #ccc;
+}
