@@ -4,7 +4,7 @@ fetch("https://jsonplaceholder.typicode.com/todos")
     .then((response) => response.json())
     .then((todos) => {
 
-      console.log(todos);
+    //   console.log(todos);
     const todoList = document.getElementById("todo-list");
         todoList.innerHTML = "";
     // console.log(todoList);
